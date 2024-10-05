@@ -1,0 +1,4 @@
+{
+    "airports": ["LAX", "JFK", "ORD", "ATL", "DFW", "DEN", "SEA", "SAN"],
+    "hotel_cities": ["New York", "Los Angeles", "Chicago", "Miami", "San Francisco", "Seattle", "San Diego"]
+}
